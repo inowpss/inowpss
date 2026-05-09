@@ -28,7 +28,7 @@
 ![Kali Linux](https://img.shields.io/badge/kalilinux-007ACC?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inowpss&theme=dark&layout=compact&langs_count=8" alt="innovsn" /></p>
+<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inowpss&theme=dark&layout=compact&langs_count=8" alt="inowpss" /></p>
 
 <p>&nbsp;<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inowpss&theme=dark&hide_border=fals" alt="inowpss" /></p>
 
