@@ -28,9 +28,15 @@
 ![Kali Linux](https://img.shields.io/badge/kalilinux-007ACC?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-<p><img  height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inowpss&theme=dark&layout=compact&langs_count=8" alt="inowpss" /></p>
+### 💪 &nbsp;Stats
+<p>
+  <img height="182em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=inowpss&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inowpss&theme=tokyonight" />
+</p>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inowpss&theme=tokyonight" alt="inowpss's github stats" /></a>
+</p>
 
-<p>&nbsp;<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inowpss&theme=dark&hide_border=fals" alt="inowpss" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div align="center">
