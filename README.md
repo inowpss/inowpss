@@ -30,7 +30,7 @@
 
 ### 💪 &nbsp;Stats
 <p>
-  <img height="182em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=inowpss&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="182em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=inowpss&layout=compact&hide_border=true&theme=merko" />
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inowpss&theme=tokyonight" />
 </p>
 <p>
